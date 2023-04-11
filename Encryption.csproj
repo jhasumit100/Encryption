@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <Title>SJ.Encryption</Title>
+    <Description>This is Class Library project used for Encryption and Decryption of a string.</Description>
+    <RepositoryUrl>https://github.com/jhasumit100/Encryption.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <IncludeSymbols>False</IncludeSymbols>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Company>Sumit Jha</Company>
+    <Authors>Sumit Jha</Authors>
+    <PackageId>SJ.Encryption</PackageId>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
