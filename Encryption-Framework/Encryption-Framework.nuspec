@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>SJ.Encryption.NetFramework</id>
+    <version>1.0.1</version>
+    <title>SJ.Encryption-NetFramework</title>
+    <authors>Sumit Jha</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/jhasumit100/Encryption.git</projectUrl>
+    <description>This is Class Library project used for Encryption and Decryption of a string.</description>
+    <releaseNotes>This is Class Library project used for Encryption and Decryption of a string.</releaseNotes>
+    <copyright></copyright>
+    <tags>Encryption</tags>
+  </metadata>
+</package>
