@@ -14,6 +14,14 @@
     <PackageId>SJ.Encryption</PackageId>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Version>1.0.2</Version>
+    <AssemblyName>SJEncryption</AssemblyName>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

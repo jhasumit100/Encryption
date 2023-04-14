@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encryption-Standard", "Encr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption-Framework", "Encryption-Framework\Encryption-Framework.csproj", "{81641E0A-8C54-4B56-9B82-D013AB81C785}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleEncryption", "SampleEncryption\SampleEncryption.csproj", "{3577AC35-F2CC-4136-AF82-898235111AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{81641E0A-8C54-4B56-9B82-D013AB81C785}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81641E0A-8C54-4B56-9B82-D013AB81C785}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81641E0A-8C54-4B56-9B82-D013AB81C785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3577AC35-F2CC-4136-AF82-898235111AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3577AC35-F2CC-4136-AF82-898235111AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3577AC35-F2CC-4136-AF82-898235111AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3577AC35-F2CC-4136-AF82-898235111AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
